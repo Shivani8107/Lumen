@@ -1,0 +1,4 @@
+Employee Name: Peter
+Department: Sales
+Designation: Manager
+Salary: 135000
