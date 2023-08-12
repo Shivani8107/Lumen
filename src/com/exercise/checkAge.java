@@ -33,7 +33,6 @@ public class checkAge {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		checkAge obj = new checkAge();
-//		obj.age((c)-> c.checkAge(c));
 		obj.age(age -> {
             Candidate candidate = new Candidate();
             candidate.checkAge(age);
